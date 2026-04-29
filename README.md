@@ -84,7 +84,7 @@ Veritabanı tasarımı, API geliştirme ve clean code'a tutkulu bir backend deve
   ├─ ✅ C# & .NET öğrendim
   ├─ ✅ SQL Server & SQLite
   
-  └─ 🎯 Hedef: Senior Backend Developer
+  └─ 🎯 Hedef: Her yeni gün daha iyiye
 ```
 
 ---
