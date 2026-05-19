@@ -78,10 +78,10 @@ Veritabanı tasarımı, API geliştirme ve clean code'a tutkulu bir backend deve
 ```
 2026 ──────────────────────────────────────────► Şimdi
   │
-  ├─ ✅ HTML & CSS öğrendim
-  ├─ ✅ JavaScript temelleri
-  ├─ ✅ Node.js & Git/GitHub
-  ├─ ✅ C# & .NET öğrendim
+  ├─ ✅ HTML & CSS
+  ├─ ✅ JavaScript 
+  ├─ ✅ Git/GitHub
+  ├─ ✅ C# & .NET .NET CORE
   ├─ ✅ SQL Server & SQLite
   
   └─ 🎯 Hedef: Her yeni gün daha iyiye
