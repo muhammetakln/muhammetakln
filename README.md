@@ -190,7 +190,7 @@ Veritabanı tasarımı, API geliştirme ve clean code'a tutkulu bir backend deve
 
 
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portföy-muhammetakln.github.io-06b6d4?style=for-the-badge)](https://muhammetakln.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portföy-muhammetakln.github.io-06b6d4?style=for-the-badge)](https://muhammetakln.github.io/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammet-akal%C4%B1nn-703aa4406/)
 
